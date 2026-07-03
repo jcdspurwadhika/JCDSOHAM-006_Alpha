@@ -1,6 +1,11 @@
 # JCDSOHAM-006_Alpha
 # Seller Churn Prediction in Brazilian E-Commerce Using Machine Learning
 
+Project Links
+📊 Tableau Dashboard: https://colab.research.google.com/drive/1Y-YefeFlTSCet0JfRT6wA3yPLnpXFPPx?usp=sharing](https://public.tableau.com/shared/5TDB44K8S?:display_count=n&:origin=viz_share_link
+🌐 Streamlit Application: 
+📓 Google Colab Notebook: https://colab.research.google.com/drive/1Y-YefeFlTSCet0JfRT6wA3yPLnpXFPPx?usp=sharing
+
 ## Project Overview
 
 This project develops a machine learning model to predict seller churn in a Brazilian e-commerce marketplace using the Olist public dataset. By identifying sellers who are likely to stop selling on the platform, the project aims to help business stakeholders implement proactive retention strategies, reduce revenue loss, and improve long-term seller engagement.
