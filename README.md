@@ -3,11 +3,11 @@
 
 ##Project Links
 
-*Tableau Dashboard: https://public.tableau.com/shared/5TDB44K8S?:display_count=n&:origin=viz_share_link
+Tableau Dashboard: https://public.tableau.com/shared/5TDB44K8S?:display_count=n&:origin=viz_share_link
 
-*Streamlit Application: 
+Streamlit Application: 
 
-*Google Colab Notebook: https://colab.research.google.com/drive/1Y-YefeFlTSCet0JfRT6wA3yPLnpXFPPx?usp=sharing
+Google Colab Notebook: https://colab.research.google.com/drive/1Y-YefeFlTSCet0JfRT6wA3yPLnpXFPPx?usp=sharing
 
 ## Project Overview
 
