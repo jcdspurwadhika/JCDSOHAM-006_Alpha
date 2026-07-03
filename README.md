@@ -1,10 +1,13 @@
 # JCDSOHAM-006_Alpha
 # Seller Churn Prediction in Brazilian E-Commerce Using Machine Learning
 
-Project Links
-📊 Tableau Dashboard: https://public.tableau.com/shared/5TDB44K8S?:display_count=n&:origin=viz_share_link
-🌐 Streamlit Application: 
-📓 Google Colab Notebook: https://colab.research.google.com/drive/1Y-YefeFlTSCet0JfRT6wA3yPLnpXFPPx?usp=sharing
+##Project Links
+
+*Tableau Dashboard: https://public.tableau.com/shared/5TDB44K8S?:display_count=n&:origin=viz_share_link
+
+*Streamlit Application: 
+
+*Google Colab Notebook: https://colab.research.google.com/drive/1Y-YefeFlTSCet0JfRT6wA3yPLnpXFPPx?usp=sharing
 
 ## Project Overview
 
