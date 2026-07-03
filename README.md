@@ -7,6 +7,8 @@
 **Tableau:** https://public.tableau.com/shared/5TDB44K8S?:display_count=n&:origin=viz_share_link
 
 **Notebook:** https://colab.research.google.com/drive/1Y-YefeFlTSCet0JfRT6wA3yPLnpXFPPx?usp=sharing
+
+**Link Drive Dataset:** https://drive.google.com/drive/folders/1LSrczQg4LvAMexmQCYv1F-FKqmIqG41A?usp=drive_link
 ### **Overview**
 
 This project deploys a machine learning model to predict whether an e-commerce seller is likely to churn within the next 90 days.
